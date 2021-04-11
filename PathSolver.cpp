@@ -174,7 +174,7 @@ void PathSolver::forwardSearch(Env env)
 
 NodeList *PathSolver::getNodesExplored()
 {
-    return this->nodesExplored;
+    return 0;
 }
 
 /*

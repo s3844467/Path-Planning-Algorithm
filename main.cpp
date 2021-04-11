@@ -1,11 +1,31 @@
 /*
 * Ujwal Kumar Mamidi, s3844467
 * I started of with the Nodes.cpp file. As it was simple
-* Getters and setters, it didn't take too long to implement.
+* getters and setters, it didn't take too long to implement.
+* I also drew out several diagrams to try to get a better 
+* understanding of the forward search algorithm. Moreover,
+* I continued with Nodelist and it wasn't too complicated as
+* I used several lecture and tutorial videos to understand the concept
+* and apply it to this project. For milestone 1, I came up with different 
+* test that I thought would test each scenario possible (loops, deadends,
+* junctions, diagonals and simple boxes). For milestone 2, I broke up each
+* line of the algorithm into smaller parts to work on it. It made it much
+* easier to slowly understand the whole concept. For milestone 3, I thought
+* it was quite simple after completing milestone 2. I simply just drew out
+* a diagram to see how i need to do the pathing to goal location.
+*
+* Issues encountered:
+* It took me a very long time to completely understand the
+* forward algorithm.I had to watch the example video multiple
+* times to make sure I was even heading the right way. Getting
+* the logic was probably the hardest part for the algorithm. 
+* Furthermore, I struggled with heap management on a big scale
+* project and therefore I couldn't implement getNodesExplored()
+* properly. Most importantly, due to the other milestones being 
+* time consuming and difficult I wasn't able to get to 
+* milestone 4. 
 * 
-*
-*
-*
+* 
 */
 
 #include <iostream>
